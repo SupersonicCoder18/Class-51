@@ -1,0 +1,21 @@
+h1
+{color:red}
+*{border:solid;
+}
+.header{
+    background-color: rgb(225, 250, 1);
+    display: flex;
+    justify-content: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(4, 253, 220);
+}
